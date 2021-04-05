@@ -1,0 +1,86 @@
+#,when,who,problem,lang,verdict,time,memory
+110387523,Mar/18/2021 19:58,sourav_1209,A - C+=,Python 3,Accepted,77 ms,0 KB
+110382866,Mar/18/2021 19:42,sourav_1209,A - Replacing Elements,Python 3,Accepted,139 ms,0 KB
+110377121,Mar/18/2021 19:26,sourav_1209,A - Bus to Udayland,Python 3,Accepted,77 ms,0 KB
+110376417,Mar/18/2021 19:24,sourav_1209,A - Bus to Udayland,Python 3,Wrong answer on test 5,46 ms,0 KB
+110370621,Mar/18/2021 19:08,sourav_1209,A - Favorite Sequence,Python 3,Accepted,78 ms,900 KB
+110283581,Mar/18/2021 09:19,sourav_1209,A - Floor Number,Python 3,Accepted,61 ms,0 KB
+110161605,Mar/17/2021 13:15,sourav_1209,A - Combination Lock,Python 3,Accepted,77 ms,0 KB
+110156350,Mar/17/2021 11:58,sourav_1209,A - Vus the Cossack and a Contest,Python 3,Accepted,77 ms,0 KB
+110156067,Mar/17/2021 11:55,sourav_1209,B - CopyCopyCopyCopyCopy,Python 3,Accepted,265 ms,10700 KB
+110155925,Mar/17/2021 11:53,sourav_1209,B - CopyCopyCopyCopyCopy,Python 3,Time limit exceeded on test 3,1000 ms,8000 KB
+110154384,Mar/17/2021 11:31,sourav_1209,A - Omkar and Completion,Python 3,Accepted,77 ms,0 KB
+110154153,Mar/17/2021 11:27,sourav_1209,A - Soft Drinking,Python 3,Accepted,154 ms,0 KB
+110153836,Mar/17/2021 11:22,sourav_1209,A - Fafa and his Company,Python 3,Accepted,77 ms,0 KB
+110153583,Mar/17/2021 11:18,sourav_1209,A - Sereja and Dima,Python 3,Accepted,62 ms,300 KB
+110153031,Mar/17/2021 11:10,sourav_1209,A - Vanya and Cubes,Python 3,Accepted,62 ms,0 KB
+110151991,Mar/17/2021 10:54,sourav_1209,A - Gennady and a Card Game,Python 3,Accepted,62 ms,0 KB
+110150052,Mar/17/2021 10:22,sourav_1209,A - Brain's Photos,Python 3,Accepted,77 ms,0 KB
+110149344,Mar/17/2021 10:11,sourav_1209,A - Add Odd or Subtract Even,Python 3,Accepted,156 ms,0 KB
+110135389,Mar/16/2021 20:52,sourav_1209,A - Black Square,Python 3,Accepted,93 ms,700 KB
+110130070,Mar/16/2021 19:29,sourav_1209,A - Boring Apartments,Python 3,Accepted,61 ms,0 KB
+110129361,Mar/16/2021 19:19,sourav_1209,A - Maximum GCD,Python 3,Accepted,62 ms,0 KB
+110123081,Mar/16/2021 17:51,sourav_1209,A - Bachgold Problem,Python 3,Accepted,77 ms,300 KB
+110122596,Mar/16/2021 17:44,sourav_1209,A - Mishka and Game,Python 3,Accepted,62 ms,0 KB
+110122542,Mar/16/2021 17:44,sourav_1209,A - Mishka and Game,Python 3,Wrong answer on test 1,61 ms,0 KB
+110121536,Mar/16/2021 17:31,sourav_1209,A - Team Olympiad,Python 3,Accepted,62 ms,300 KB
+110119457,Mar/16/2021 17:07,sourav_1209,A - Choosing Teams,Python 3,Accepted,62 ms,0 KB
+110118579,Mar/16/2021 16:56,sourav_1209,A - Holiday Of Equality,Python 3,Accepted,62 ms,0 KB
+110118001,Mar/16/2021 16:48,sourav_1209,A - The New Year: Meeting Friends,Python 3,Accepted,77 ms,0 KB
+110114189,Mar/16/2021 16:02,sourav_1209,A - Police Recruits,Python 3,Accepted,108 ms,5300 KB
+110113424,Mar/16/2021 15:54,sourav_1209,A - Police Recruits,Python 3,Wrong answer on test 6,62 ms,300 KB
+110113168,Mar/16/2021 15:51,sourav_1209,A - Police Recruits,Python 3,Wrong answer on test 6,46 ms,0 KB
+110110420,Mar/16/2021 15:19,sourav_1209,A - Short Substrings,Python 3,Accepted,77 ms,0 KB
+110110365,Mar/16/2021 15:19,sourav_1209,A - Short Substrings,Python 3,Wrong answer on test 1,46 ms,0 KB
+110065549,Mar/15/2021 22:27,sourav_1209,A - Buy a Shovel,Python 3,Accepted,62 ms,0 KB
+110065095,Mar/15/2021 22:18,sourav_1209,A - New Year and Hurry,Python 3,Accepted,62 ms,0 KB
+110064113,Mar/15/2021 21:59,sourav_1209,A - Sum of Round Numbers,Python 3,Wrong answer on test 2,187 ms,0 KB
+110062297,Mar/15/2021 21:26,sourav_1209,A - Vasya the Hipster,Python 3,Accepted,62 ms,0 KB
+110061979,Mar/15/2021 21:20,sourav_1209,A - Fox And Snake,Python 3,Accepted,78 ms,300 KB
+110060618,Mar/15/2021 20:57,sourav_1209,A - Amusing Joke,Python 3,Wrong answer on test 2,124 ms,0 KB
+110060305,Mar/15/2021 20:53,sourav_1209,A - Amusing Joke,Python 3,Wrong answer on test 2,92 ms,0 KB
+110059951,Mar/15/2021 20:47,sourav_1209,A - Amusing Joke,Python 3,Wrong answer on test 5,124 ms,0 KB
+110056809,Mar/15/2021 20:00,sourav_1209,A - Anton and Polyhedrons,Python 3,Accepted,343 ms,0 KB
+110056167,Mar/15/2021 19:51,sourav_1209,A - Pangram,Python 3,Accepted,93 ms,800 KB
+110055544,Mar/15/2021 19:42,sourav_1209,A - Anton and Letters,Python 3,Accepted,77 ms,0 KB
+110054850,Mar/15/2021 19:32,sourav_1209,A - Arrival of the General,Python 3,Accepted,124 ms,0 KB
+110051937,Mar/15/2021 18:51,sourav_1209,A - Presents,Python 3,Accepted,124 ms,0 KB
+110034501,Mar/15/2021 15:04,sourav_1209,A - Is your horseshoe on the other hoof?,Python 3,Accepted,122 ms,0 KB
+110034072,Mar/15/2021 14:58,sourav_1209,A - Insomnia cure,Python 3,Accepted,186 ms,0 KB
+110033011,Mar/15/2021 14:45,sourav_1209,A - I Wanna Be the Guy,Python 3,Accepted,62 ms,300 KB
+110032904,Mar/15/2021 14:44,sourav_1209,A - I Wanna Be the Guy,Python 3,Wrong answer on test 1,31 ms,300 KB
+110031707,Mar/15/2021 14:28,sourav_1209,B - Drinks,Python 3,Accepted,186 ms,0 KB
+110030305,Mar/15/2021 14:07,sourav_1209,A - Ultra-Fast Mathematician,Python 3,Accepted,77 ms,0 KB
+110024473,Mar/15/2021 12:41,sourav_1209,A - Calculating Function,Python 3,Accepted,62 ms,0 KB
+110021990,Mar/15/2021 12:05,sourav_1209,A - Calculating Function,Python 3,Time limit exceeded on test 3,1000 ms,0 KB
+110021536,Mar/15/2021 11:58,sourav_1209,A - Hulk,Python 3,Accepted,62 ms,0 KB
+109995935,Mar/14/2021 22:32,sourav_1209,A - In Search of an Easy Problem,Python 3,Accepted,77 ms,0 KB
+109995691,Mar/14/2021 22:27,sourav_1209,A - Magnets,Python 3,Accepted,340 ms,0 KB
+109994004,Mar/14/2021 21:50,sourav_1209,A - Vanya and Fence,Python 3,Accepted,62 ms,300 KB
+109993688,Mar/14/2021 21:44,sourav_1209,A - George and Accommodation,Python 3,Accepted,77 ms,0 KB
+109993425,Mar/14/2021 21:39,sourav_1209,A - Anton and Danik,Python 3,Accepted,62 ms,300 KB
+109992932,Mar/14/2021 21:29,sourav_1209,A - Translation,Python 3,Accepted,124 ms,0 KB
+109991897,Mar/14/2021 21:10,sourav_1209,A - Nearly Lucky Number,Python 3,Accepted,124 ms,0 KB
+109991456,Mar/14/2021 21:02,sourav_1209,A - Nearly Lucky Number,Python 3,Wrong answer on test 7,122 ms,0 KB
+109989518,Mar/14/2021 20:30,sourav_1209,B - Queue at the School,Python 3,Accepted,186 ms,0 KB
+109988906,Mar/14/2021 20:19,sourav_1209,A - Word,Python 3,Accepted,154 ms,0 KB
+109988630,Mar/14/2021 20:14,sourav_1209,A - Tram,Python 3,Accepted,124 ms,0 KB
+109988525,Mar/14/2021 20:12,sourav_1209,A - Tram,Python 3,Runtime error on test 3,124 ms,0 KB
+109982314,Mar/14/2021 18:18,sourav_1209,A - Wrong Subtraction,Python 3,Time limit exceeded on test 3,1000 ms,0 KB
+109982252,Mar/14/2021 18:17,sourav_1209,A - Wrong Subtraction,Python 3,Runtime error on test 1,62 ms,0 KB
+109619061,Mar/10/2021 16:58,sourav_1209,A - Bear and Big Brother,Python 3,Accepted,62 ms,0 KB
+109618143,Mar/10/2021 16:56,sourav_1209,A - Bear and Big Brother,Python 3,Wrong answer on test 3,46 ms,0 KB
+109614231,Mar/10/2021 16:48,sourav_1209,A - Soldier and Bananas,Python 3,Accepted,62 ms,0 KB
+109613267,Mar/10/2021 16:45,sourav_1209,A - Soldier and Bananas,Python 3,Wrong answer on test 2,77 ms,0 KB
+109612201,Mar/10/2021 16:43,sourav_1209,A - Soldier and Bananas,Python 3,Wrong answer on test 2,46 ms,0 KB
+109607896,Mar/10/2021 16:34,sourav_1209,A - Boy or Girl,Python 3,Accepted,124 ms,0 KB
+109604536,Mar/10/2021 16:27,sourav_1209,A - Stones on the Table,Python 3,Accepted,124 ms,0 KB
+109595601,Mar/10/2021 16:09,sourav_1209,A - Word Capitalization,Python 3,Accepted,124 ms,0 KB
+109492979,Mar/09/2021 17:39,sourav_1209,A - Word Capitalization,Python 3,Wrong answer on test 1,92 ms,0 KB
+109452066,Mar/09/2021 12:00,sourav_1209,A - Helpful Maths,Python 3,Accepted,154 ms,0 KB
+109451458,Mar/09/2021 11:52,sourav_1209,A - Beautiful Matrix,Python 3,Accepted,122 ms,0 KB
+109420253,Mar/08/2021 21:12,sourav_1209,A - Petya and Strings,Python 3,Accepted,124 ms,0 KB
+109419976,Mar/08/2021 21:08,sourav_1209,A - Petya and Strings,Python 3,Wrong answer on test 7,124 ms,0 KB
+109418890,Mar/08/2021 20:49,sourav_1209,A - Bit++,Python 3,Accepted,77 ms,0 KB
+109418507,Mar/08/2021 20:43,sourav_1209,A - Next Round,Python 3,Accepted,154 ms,0 KB
+109418410,Mar/08/2021 20:41,sourav_1209,A - Next Round,GNU C11,Compilation error,0 ms,0 KB
